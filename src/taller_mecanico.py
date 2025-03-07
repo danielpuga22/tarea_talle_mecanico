@@ -23,7 +23,7 @@ Espero te haya servido.
 Adiós."""
 
 
-carros = [ "Toyota", "Nissan", "Honda", "Volkswagen", "Chevrolet", "Audi"]
+carros = [ "Toyota", "Nissan", "Honda", "Volkswagen", "Chevrolet", "Audi", "BMW", "Volvo"]
 
 def iniciar_taller():
     print(BIENVENIDA)
